@@ -29,7 +29,7 @@ To use this tool, you need three binary files:
 ---
 
 ## ⚡ How to Use:
-1. Open the [UnisocBootloaderUnlocker Link](https://carltweaks.github.io/Universal-Unisoc-Bootloader-Unlock/).
+1. Open the [UnisocBootloaderUnlocker Link](https://carltible12.github.io/Universal-Unisoc-Bootloader-Unlock/).
 2. Select your **Stock FDL1**, the **Bypass Bin**, and your **Stock FDL2**.
 3. Click **"EXECUTE HANDSHAKE"**.
 4. **Target Phone Action**:
